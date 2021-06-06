@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davit Shirkhanyan</h1>
-<h3 align="center">Graduated from Coding Boot Camp at UCLA Extension (Full Stack Development)</h3>
+<h3 align="center">Graduated from UCLA (Full Stack Development)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitshirkhanyan&label=Profile%20views&color=0e75b6&style=flat" alt="davitshirkhanyan" /> </p>
 
