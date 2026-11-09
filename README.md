@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitshirkhanyan&label=Profile%20views&color=0e75b6&style=flat" alt="davitshirkhanyan" /> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, jQuery, Bootstrap, React, APIs, NodeJS, Express, Model View Controller (MVC), REST, Progressive Web Applications (PWA), Git, Jest, Webpack, Stripe, MySQL, Sequelize, NoSQL, SQLite, GraphQL, MongoDB, Mongoose**
+- 🛠️ Tech I work with: **HTML5, CSS3, JavaScript, jQuery, Bootstrap, React, APIs, NodeJS, Express, Model View Controller (MVC), REST, Progressive Web Applications (PWA), Git, Jest, Webpack, Stripe, MySQL, Sequelize, NoSQL, SQLite, GraphQL, MongoDB, Mongoose**
+
+- 🚀 Recent work: [EverNest](https://evernestedu.com), a multilingual website with an AI assistant for a family-run after-school center, and GeoSpin, a geography explorer app. See [my portfolio](https://www.davitshirkhanyan.com).
 
 - 👨‍💻 All of my projects are available at [https://github.com/davitshirkhanyan](https://github.com/davitshirkhanyan)
 
