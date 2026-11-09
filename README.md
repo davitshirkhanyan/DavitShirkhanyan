@@ -3,40 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitshirkhanyan&label=Profile%20views&color=0e75b6&style=flat" alt="davitshirkhanyan" /> </p>
 
-- 🌱 I’m currently learning **HTML5
-CSS3
-JavaScript
-jQuery
-Bootstrap
-React
-APIs
-NodeJS
-Express
-Model View
-Controller (MVC)
-REST
-Progressive Web
-Applications (PWA)
-Git
-Jest
-Webpack
-Stripe
-MySQL
-Sequelize
-NoSQL
-SQLite
-GraphQL
-MongoDB
-Mongoose**
+- 🛠️ Tech I work with: **HTML5, CSS3, JavaScript, jQuery, Bootstrap, React, APIs, NodeJS, Express, Model View Controller (MVC), REST, Progressive Web Applications (PWA), Git, Jest, Webpack, Stripe, MySQL, Sequelize, NoSQL, SQLite, GraphQL, MongoDB, Mongoose**
+
+- 🚀 Recent work: [EverNest](https://evernestedu.com), a multilingual website with an AI assistant for a family-run after-school center, and [GeoSpin](https://country-generator-iota.vercel.app/), a geography explorer app. See [my portfolio](https://davitshirkhanyan.com).
 
 - 👨‍💻 All of my projects are available at [https://github.com/davitshirkhanyan](https://github.com/davitshirkhanyan)
 
 - 📫 How to reach me **davit.shirkhanyan@gmail.com**
 - ✏️ My Portfolio [@davitshirkhanyan](https://davitshirkhanyan.com)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +22,6 @@ Mongoose**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davitshirkhanyan&show_icons=true&locale=en&layout=compact" alt="davitshirkhanyan" /></p>
 
