@@ -5,7 +5,7 @@
 
 - 🛠️ Tech I work with: **HTML5, CSS3, JavaScript, jQuery, Bootstrap, React, APIs, NodeJS, Express, Model View Controller (MVC), REST, Progressive Web Applications (PWA), Git, Jest, Webpack, Stripe, MySQL, Sequelize, NoSQL, SQLite, GraphQL, MongoDB, Mongoose**
 
-- 🚀 Recent work: [EverNest](https://evernestedu.com), a multilingual website with an AI assistant for a family-run after-school center, and GeoSpin, a geography explorer app. See [my portfolio](https://www.davitshirkhanyan.com).
+- 🚀 Recent work: [EverNest](https://evernestedu.com), a multilingual website with an AI assistant for a family-run after-school center, and [GeoSpin](https://country-generator-iota.vercel.app/), a geography explorer app. See [my portfolio](https://www.davitshirkhanyan.com).
 
 - 👨‍💻 All of my projects are available at [https://github.com/davitshirkhanyan](https://github.com/davitshirkhanyan)
 
